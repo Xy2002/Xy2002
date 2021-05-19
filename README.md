@@ -1,5 +1,5 @@
-### Hi there 👋,I'm [Marshall](https://www.naiquoy.com)
-🌱 I’m currently learning Vue
+### Hi there 👋,I'm [Marshall](https://www.naiquoy.com)  
+🌱 I’m currently learning Vue  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xy2002&show_icons=true&count_private=true&theme=vue)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xy2002)](https://github.com/anuraghazra/github-readme-stats)
 <!--
