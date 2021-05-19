@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm [Marshall](https://www.naiquoy.com)  
 🌱 I’m currently learning Vue  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xy2002&show_icons=true&count_private=true&theme=vue)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xy2002)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xy2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Xy2002/Xy2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
