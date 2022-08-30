@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://www.naiquoy.com/imgs/marshall.png" align="center" alt="Marshall's avatar" />
+ <img src="https://www.naiquoy.com/imgs/marshall.png" align="center" alt="Marshall's avatar" />
  <h2 align="center">Hi there,I'm <a href="https://www.naiquoy.com">Marshall</a>👋</h2>
  <p align="center">I’m currently learning JavaScript & TypeScript,want to be a good front-end developer 🥰  </p>
 </p>
