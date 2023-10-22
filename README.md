@@ -1,5 +1,4 @@
 <p align="center">
- <img width="150px" src="https://www.naiquoy.com/imgs/marshall.png" align="center" alt="Marshall's avatar" />
  <h2 align="center">Hi there,I'm <a href="https://www.naiquoy.com">Marshall</a>👋</h2>
  <p align="center">I’m currently learning JavaScript & TypeScript,want to be a good front-end developer 🥰  </p>
 </p>
@@ -58,10 +57,10 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xy2002&layout=compact&hide=html" align="center" alt="Top Langs" />
 </p>
-<p align="center">
+<!-- <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Xy2002&show_icons=true&count_private=true&theme=vue" align="center" alt="GitHub stats" />
 </p>
-
+ -->
 
 <!--
 
