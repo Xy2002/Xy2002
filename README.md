@@ -8,7 +8,7 @@
 - 💻 Tech stack: React | Vue | TypeScript | JavaScript
 - 🌱 Currently learning: React | Vue | Computer Networking | Design
 - 📫 Reach me: me@naiquoy.com
-- 🎮 Currently Playing: Call of Duty®:Modern Warfare II | Call of Duty®: Warzone | VALORANT | Apex | Overwatch
+- 🎮 Currently Playing: Tom Clancy's Rainbow Six Siege | Call of Duty®:Modern Warfare II | Call of Duty®: Warzone | VALORANT | Apex | Overwatch
 
 
 <!-- <p align="center">
