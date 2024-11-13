@@ -2,13 +2,13 @@
  <h2 align="center">Hi there,I'm <a href="https://www.naiquoy.com">Marshall</a>👋</h2>
 </p>
 
- <p align="center">A 20 y.o. web developer🥰 </p>
+ <p align="center">A 22 y.o. web developer🥰 </p>
 
 
 - 💻 Tech stack: React | Vue | TypeScript | JavaScript
 - 🌱 Currently learning: React | Vue | Computer Networking | Design
 - 📫 Reach me: me@naiquoy.com
-- 🎮 Currently Playing: Tom Clancy's Rainbow Six Siege | Call of Duty®:Modern Warfare II | Call of Duty®: Warzone | VALORANT | Apex | Overwatch
+- 🎮 Currently Playing: Warframe | Tom Clancy's Rainbow Six Siege | Call of Duty®:Modern Warfare II | Call of Duty®: Warzone | VALORANT | Apex | Overwatch
 
 
 <!-- <p align="center">
